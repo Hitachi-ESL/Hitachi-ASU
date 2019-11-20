@@ -6,4 +6,4 @@ The repository contains the codes and testing files for a co-simulation framewor
 
 ## Prerequisite
 
-Download GridLab-D
+Download GridLab-D (Docker version)
