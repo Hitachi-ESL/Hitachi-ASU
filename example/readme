@@ -1,1 +1,2 @@
 
+The folder contains Python codes which runs Integration Capacity Analysis study based on IEEE 123 nodes feeder model. The GridLAB-D serves as distribution system simulation engine, which runs power flow simunations managed by Python scripts.
